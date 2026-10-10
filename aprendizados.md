@@ -1,0 +1,3 @@
+- Diferenças entre git e github
+- Como fazer um clone de um repositório
+- Como funciona todo o fluxo de criação de um repositório
