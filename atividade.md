@@ -1,5 +1,5 @@
 # Minha primeira atividade com Git
 
-Nome:
+Nome: Kaio Antunes
 
-Curso:
+Curso: Sistemas de Informação
